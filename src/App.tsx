@@ -85,14 +85,7 @@ function App() {
           {' '}
           العودة الى الرئيسية
         </button>{' '}
-        <button
-          onClick={() => {
-            console.log('2sa');
-          }}
-        >
-          {' '}
-          العودة الى الرئيسية
-        </button>
+    
       </div>
       <div className="containar p-2">لتحميل تطبيق نفاذ</div>
       <div className="containar p-2">
